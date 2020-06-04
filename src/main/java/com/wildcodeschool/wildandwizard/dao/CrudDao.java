@@ -1,4 +1,4 @@
-package com.wildcodeschool.wildandwizard.repository;
+package com.wildcodeschool.wildandwizard.dao;
 
 import java.util.List;
 

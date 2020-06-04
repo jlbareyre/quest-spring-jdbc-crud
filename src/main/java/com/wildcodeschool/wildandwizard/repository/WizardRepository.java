@@ -1,5 +1,6 @@
 package com.wildcodeschool.wildandwizard.repository;
 
+import com.wildcodeschool.wildandwizard.dao.CrudDao;
 import com.wildcodeschool.wildandwizard.entity.Wizard;
 import com.wildcodeschool.wildandwizard.util.JdbcUtils;
 
